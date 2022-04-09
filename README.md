@@ -10,3 +10,7 @@
 
 *For education
 *+
+*```.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}```
